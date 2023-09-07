@@ -6,4 +6,6 @@ class MovieMaker
 {
     public:
         static int MakeVideo(std::string imageFolder,std::string outputPath);
+        static int MakeVideo(std::string imageFolder,std::string outputPath, std::string bgPath);
+        static int AlphaOverlay(cv::Mat &image, cv::Mat &mask, cv::Mat &outImage);  
 };
