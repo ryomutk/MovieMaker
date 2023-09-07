@@ -1,8 +1,11 @@
 #include "MovieMaker.hpp"
 
-int main()
-{
-    MovieMaker::MakeVideo("./images","./out/output_video.mp4");
 
+int main()
+{   
+    std::string imageFolder = "./images";
+    std::string outputPath = "./output.mp4";
+
+    MovieMaker::SplitVideo(outputPath, imageFolder);
     return 0;
 }

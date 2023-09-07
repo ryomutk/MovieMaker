@@ -1,6 +1,6 @@
 #include "MovieMaker.hpp"
 
-int MovieMaker::MakeVideo(std::string imageFolder,std::string outputPath)
+int MovieMaker::MakeVideo(std::string &imageFolder,std::string &outputPath)
 {
 
     // 画像フォルダから画像ファイル名をソートして取得します。
@@ -33,7 +33,7 @@ int MovieMaker::MakeVideo(std::string imageFolder,std::string outputPath)
     return 0;
 }
 
-int MovieMaker::MakeVideo(std::string imageFolder,std::string outputPath, std::string bgPath)
+int MovieMaker::MakeVideo(std::string &imageFolder,std::string &outputPath, std::string &bgPath)
 {
     cv::Mat bgImg = cv::imread(bgPath, cv::IMREAD_UNCHANGED);
 
@@ -105,5 +105,30 @@ int MovieMaker::AlphaOverlay(cv::Mat &bg, cv::Mat &overlay, cv::Mat &outImage)
         }
     }
 
+    return 0;
+}
+
+int SplitVideo(std::string &videoPath, std::string &outputFolder)
+{
+    //videoPathのビデオを読み込み、フレームごとに分割してoutputFolderに保存する。
+    cv::VideoCapture cap(videoPath);
+    if(!cap.isOpened())
+    {
+        std::cout << "Failed to open video file." << std::endl;
+        return -1;
+    }
+
+    int frameCount = cap.get(cv::CAP_PROP_FRAME_COUNT);
+    int width = cap.get(cv::CAP_PROP_FRAME_WIDTH);
+    int height = cap.get(cv::CAP_PROP_FRAME_HEIGHT);
+
+    cv::Mat frame;
+    for(int i = 0;i < frameCount;i++)
+    {
+        cap >> frame;
+        std::string outputPath = outputFolder + "/" + std::to_string(i) + ".png";
+        cv::imwrite(outputPath, frame);
+    }
+    
     return 0;
 }
