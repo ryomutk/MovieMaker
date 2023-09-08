@@ -3,8 +3,6 @@
 
 int MovieMaker::MakeVideo(std::string imageFolder, std::string outputPath)
 {
-
-	// 画像フォルダから画像ファイル名をソートして取得します。
 	std::vector<std::string> images;
 	int count = 0;
 	for (const auto& file : std::filesystem::directory_iterator(imageFolder))
@@ -16,16 +14,13 @@ int MovieMaker::MakeVideo(std::string imageFolder, std::string outputPath)
 	}
 	std::sort(images.begin(), images.end());
 
-	// 最初の画像からフレームのサイズを取得します。
 	cv::Mat frame = cv::imread(images[0]);
 	int height = frame.rows;
 	int width = frame.cols;
 
-	// 出力ビデオの設定を行います。FPSと解像度を指定し、ビデオファイルを作成します。
 	cv::VideoWriter video(outputPath, cv::VideoWriter::fourcc('M', 'P', '4', 'V'), 24, cv::Size(width, height));
 
 	count = 0;
-	// 画像ファイルを動画に追加します。
 	for (const auto& image_path : images)
 	{
 		frame = cv::imread(image_path);
@@ -137,13 +132,10 @@ int MovieMaker::AlphaOverlay(cv::Mat& bg, cv::Mat& overlay, cv::Mat& outImage)
 	return 0;
 }
 
-//入力された3次元画像にアルファチャンネルを追加します。
 int MovieMaker::AddAlphaChannel(cv::Mat& image, cv::Mat& outImage)
 {
-	// Check if alpha channel exists
 	if (image.channels() != 4)
 	{
-		// Create a 4-channel image with the default alpha value (255)
 		cv::cvtColor(image, image, cv::COLOR_BGR2BGRA);
 		cv::Scalar alpha = cv::Scalar(255);
 		cv::Mat alphaChannel = cv::Mat(image.rows, image.cols, CV_8UC1, alpha);
@@ -153,7 +145,6 @@ int MovieMaker::AddAlphaChannel(cv::Mat& image, cv::Mat& outImage)
 		cv::merge(imageChannels, image);
 	}
 
-	// If the output image does not exist or has different dimensions, create a new one
 	if (outImage.empty() || outImage.cols != image.cols || outImage.rows != image.rows)
 	{
 		outImage = cv::Mat(image.rows, image.cols, CV_8UC4);
