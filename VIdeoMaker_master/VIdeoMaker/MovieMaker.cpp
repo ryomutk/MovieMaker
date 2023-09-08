@@ -51,15 +51,10 @@ int MovieMaker::MakeVideo(std::string imageFolder, std::string outputPath, std::
 	std::sort(images.begin(), images.end());
 
 	cv::Mat frame;
-	cv::Mat overlay = cv::imread(images[0], cv::IMREAD_UNCHANGED);
-	int res = AlphaOverlay(bgImg, overlay, frame);
-	if (res != 0) {
-		std::cout << "Failed to overlay the first image." << std::endl;
-		return -1;
-	}
+	cv::Mat sizeMat = cv::imread(images[0], cv::IMREAD_UNCHANGED);
 
-	int height = frame.rows;
-	int width = frame.cols;
+	int height = sizeMat.rows;
+	int width = sizeMat.cols;
 
 	cv::VideoWriter video(outputPath, cv::VideoWriter::fourcc('M', 'P', '4', 'V'), 24, cv::Size(width, height));
 
@@ -67,7 +62,7 @@ int MovieMaker::MakeVideo(std::string imageFolder, std::string outputPath, std::
 	for (const auto& image_path : images)
 	{
 		cv::Mat overlay = cv::imread(image_path, cv::IMREAD_UNCHANGED);
-		res = AlphaOverlay(bgImg, overlay, frame);
+		int res = AlphaOverlay(bgImg, overlay, frame);
 		if (res == 0)
 		{
 			cv::Mat frameBGR;

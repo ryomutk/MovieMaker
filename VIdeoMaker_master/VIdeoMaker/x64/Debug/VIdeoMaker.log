@@ -1,3 +1,30 @@
-﻿  main.cpp
+﻿  MovieMaker.cpp
 C:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+D:\cpp\MovieMaker\VIdeoMaker_master\VIdeoMaker\MovieMaker.cpp(12,42): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\cpp\MovieMaker\VIdeoMaker_master\VIdeoMaker\MovieMaker.cpp(29,42): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\cpp\MovieMaker\VIdeoMaker_master\VIdeoMaker\MovieMaker.cpp(48,42): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\cpp\MovieMaker\VIdeoMaker_master\VIdeoMaker\MovieMaker.cpp(77,42): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\cpp\MovieMaker\VIdeoMaker_master\VIdeoMaker\MovieMaker.cpp(119,34): warning C4244: '=': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=uchar
+          ]
+D:\cpp\MovieMaker\VIdeoMaker_master\VIdeoMaker\MovieMaker.cpp(120,34): warning C4244: '=': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=uchar
+          ]
+D:\cpp\MovieMaker\VIdeoMaker_master\VIdeoMaker\MovieMaker.cpp(121,34): warning C4244: '=': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=uchar
+          ]
+D:\cpp\MovieMaker\VIdeoMaker_master\VIdeoMaker\MovieMaker.cpp(122,26): warning C4244: '=': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=uchar
+          ]
+  main.cpp
+C:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
   VIdeoMaker.vcxproj -> D:\cpp\MovieMaker\VIdeoMaker_master\x64\Debug\VIdeoMaker.exe
