@@ -41,4 +41,909 @@
       <Filter>リソース ファイル</Filter>
     </Media>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Sequences\azuki\0500.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0501.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0502.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0503.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0504.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0505.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0506.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0507.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0508.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0509.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0510.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0511.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0512.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0513.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0514.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0515.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0516.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0517.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0518.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0519.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0520.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0521.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0522.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0523.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0524.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0525.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0526.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0527.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0528.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0529.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0530.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0531.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0532.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0533.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0534.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0535.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0536.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0537.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0538.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0539.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0540.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0541.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0542.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0543.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0544.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0545.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0546.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0547.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0548.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0549.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0550.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0551.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0552.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0553.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0554.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0555.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0556.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0557.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0558.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0559.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0560.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0561.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0562.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0563.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0564.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0565.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0566.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0567.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0568.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0569.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0570.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0571.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0572.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0573.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0574.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0575.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0576.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0577.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0578.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0579.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0580.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0581.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0582.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0583.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0584.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0585.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0586.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0587.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0588.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0589.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0590.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0591.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0592.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0593.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0594.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0595.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0596.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0597.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0598.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0599.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0600.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0601.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0602.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0603.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0604.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0605.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0606.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0607.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0608.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0609.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0610.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0611.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0612.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0613.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0614.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0615.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0616.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0617.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0618.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0619.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0620.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0621.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0622.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0623.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0624.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0625.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0626.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0627.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0628.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0629.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0630.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0631.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0632.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0633.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0634.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0635.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0636.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0637.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0638.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0639.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0640.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0641.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0642.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0643.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0644.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0645.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0646.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0647.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0648.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0649.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0650.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0651.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0652.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0653.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0654.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0655.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0656.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0657.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0658.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0659.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0660.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0661.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0662.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0663.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0664.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0665.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0666.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0667.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0668.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0669.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0670.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0671.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0672.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0673.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0674.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0675.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0676.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0677.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0678.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0679.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0680.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0681.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0682.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0683.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0684.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0685.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0686.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0687.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0688.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0689.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0690.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0691.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0692.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0693.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0694.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0695.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0696.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0697.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0698.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0699.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0700.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0701.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0702.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0703.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0704.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0705.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0706.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0707.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0708.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0709.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0710.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0711.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0712.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0713.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0714.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0715.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0716.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0717.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0718.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0719.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0720.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0721.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0722.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0723.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0724.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0725.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0726.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0727.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0728.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0729.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0730.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0731.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0732.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0733.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0734.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0735.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0736.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0737.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0738.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0739.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0740.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0741.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0742.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0743.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0744.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0745.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0746.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0747.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0748.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0749.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0750.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0751.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0752.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0753.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0754.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0755.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0756.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0757.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0758.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0759.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0760.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0761.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0762.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0763.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0764.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0765.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0766.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0767.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0768.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0769.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0770.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0771.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0772.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0773.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0774.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0775.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0776.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0777.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0778.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0779.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0780.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0781.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0782.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0783.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0784.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0785.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0786.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0787.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0788.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0789.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0790.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0791.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0792.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0793.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0794.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0795.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0796.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0797.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0798.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0799.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Sequences\azuki\0800.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
