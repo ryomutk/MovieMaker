@@ -112,15 +112,30 @@ int MovieMaker::AlphaOverlay(cv::Mat& bg, cv::Mat& overlay, cv::Mat& outImage)
 		for (int x = 0; x < overlay.cols; x++)
 		{
 			cv::Vec4b overlay_vec = overlay.at<cv::Vec4b>(y, x);
-			cv::Vec3b bg_vec = bg.at<cv::Vec3b>(y, x);
-			double alpha = (double)overlay_vec[3] / 255.0;
-			double beta = 1.0 - alpha;
-			cv::Vec4b out_vec;
-			out_vec[0] = bg_vec[0] * beta + overlay_vec[0] * alpha;
-			out_vec[1] = bg_vec[1] * beta + overlay_vec[1] * alpha;
-			out_vec[2] = bg_vec[2] * beta + overlay_vec[2] * alpha;
-			out_vec[3] = 255*beta + overlay_vec[3] * alpha;
-			outImage.at<cv::Vec4b>(y, x) = out_vec;
+			if (bg.channels() == 4)
+			{
+				cv::Vec4b bg_vec = bg.at<cv::Vec4b>(y, x);
+				double alpha = (double)overlay_vec[3] / 255.0;
+				double beta = 1.0 - alpha;
+				cv::Vec4b out_vec;
+				out_vec[0] = bg_vec[0] * beta + overlay_vec[0] * alpha;
+				out_vec[1] = bg_vec[1] * beta + overlay_vec[1] * alpha;
+				out_vec[2] = bg_vec[2] * beta + overlay_vec[2] * alpha;
+				out_vec[3] = bg_vec[3] * beta + overlay_vec[3] * alpha;
+				outImage.at<cv::Vec4b>(y, x) = out_vec;
+			}
+			else
+			{
+				cv::Vec3b bg_vec = bg.at<cv::Vec3b>(y, x);
+				double alpha = (double)overlay_vec[3] / 255.0;
+				double beta = 1.0 - alpha;
+				cv::Vec4b out_vec;
+				out_vec[0] = bg_vec[0] * beta + overlay_vec[0] * alpha;
+				out_vec[1] = bg_vec[1] * beta + overlay_vec[1] * alpha;
+				out_vec[2] = bg_vec[2] * beta + overlay_vec[2] * alpha;
+				out_vec[3] = 255 * beta + overlay_vec[3] * alpha;
+				outImage.at<cv::Vec4b>(y, x) = out_vec;
+			}
 		}
 	}
 
