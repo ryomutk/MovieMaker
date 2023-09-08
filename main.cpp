@@ -4,8 +4,8 @@
 
 int main()
 {
-	MovieMaker::MakeVideo(".\\Mov", ".\\Out\\3_2.mp4", ".\\bg\\�O���[.png");
-	MixSound(".\\Out\\3_2.mp4", ".\\Sound\\Shiu_3_voice_5.wav", ".\\Out\\3_2_sound.mp4");
+	MovieMaker::MakeVideo(".\\Mov", ".\\Out\\3_2.mp4", ".\\bg\\blue.png");
+	//combine_aac_audio(".\\Out\\pool.mp4", ".\\Sound\\water.wav", ".\\Out\\3_2_sound.mp4");
 
 	return 0;
 }
